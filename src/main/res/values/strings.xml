@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="title">Bucharest Quiz</string>
+    <string name="description">"\tBucharest is the capital and largest city of Romania, as well as its cultural, industrial and financial centre. It is located in the southeast of the country on the banks of the Dâmbovița River, less than 60 km north of the Danube River.\n
+\tTake this quiz to find out how much you know about this beautiful city."</string>
+    <string name="imageDescription">"Image of Bucharest"</string>
+
+    <string name="question1">"1. There is a legend that says that the city has been named after a:"</string>
+    <string name="answer1a">"emperor called Bucur"</string>
+    <string name="answer1b">"shepherd called Bucur"</string>
+    <string name="answer1c">"princess called Bucuria"</string>
+
+    <string name="question2">"2. Bucharest is also called:"</string>
+    <string name="answer2a">"\"The Little Paris\""</string>
+    <string name="answer2b">"\"The Balkan Rome\""</string>
+    <string name="answer2c">"\"The Big City\""</string>
+
+    <string name="question3">"3. The Palace of Parliament is one of the largest administrative buildings in the world, being:"</string>
+    <string name="answer3a">"second largest in the world"</string>
+    <string name="answer3b">"third largest in the world"</string>
+    <string name="answer3c">"fourth largest in the world"</string>
+
+    <string name="question4">"4. Which of these monuments are placed in the capital city of Romania?"</string>
+    <string name="answer4a">"Romanian Athenaeum"</string>
+    <string name="answer4b">"Liars Bridge"</string>
+    <string name="answer4c">"The Black Church"</string>
+    <string name="answer4d">"Triumph Arch"</string>
+    <string name="answer4e">"Basarab Overpass"</string>
+
+    <string name="finish">"FINISH QUIZ"</string>
+
+</resources>
